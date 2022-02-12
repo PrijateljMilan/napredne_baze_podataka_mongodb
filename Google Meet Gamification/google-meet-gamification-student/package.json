@@ -1,0 +1,15 @@
+{
+  "name": "googlemeetgamification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axion": "^0.1.0",
+    "react": "^17.0.2"
+  }
+}
